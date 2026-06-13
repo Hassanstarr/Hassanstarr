@@ -18,17 +18,23 @@ Currently improving my backend skills and moving towards **Data Science & AI**.
 
 ## 🚀 Projects
 
-### 🔹 Teacher Portfolio Website
-- React frontend
-- Responsive UI design
+### 🔹 [Cyber Crime Complaint Management System](https://github.com/Hassanstarr/Cyber-Crime-Complaint-System)
+- Full-stack app (React.js, Node.js, Express.js, MS SQL Server)
+- Normalized 4-table relational DB with FK, CHECK & UNIQUE constraints
+- JWT auth, bcrypt hashing, role-based access control (Citizen & Admin)
+- Parameterized queries, connection pooling, Swagger UI docs
 
-### 🔹 MERN Notes App
+### 🔹 [E-commerce Backend API](https://github.com/Hassanstarr/E-Commerce-Backend-API)
+- REST API (products, users, orders)
+- Scalable backend structure
+
+### 🔹 [MERN Notes App](https://github.com/Hassanstarr/mern-thinkboard)
 - Full-stack CRUD app
 - JWT authentication
 
-### 🔹 E-commerce Backend API
-- REST API (products, users, orders)
-- Scalable backend structure
+### 🔹 [Teacher Portfolio Website](https://github.com/Hassanstarr/hypersoft-lab)
+- React frontend
+- Responsive UI design
 
 ---
 
