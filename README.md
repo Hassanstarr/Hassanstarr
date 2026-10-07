@@ -4,7 +4,7 @@
 <!-- <img src="YOUR_BANNER_LINK_HERE" alt="GitHub Banner" width="100%" /> -->
 
 🎓 BS Mathematics with AI student  
-💻 Software Engineer 
+💻 Software Engineer   
 📍 Pakistan  
 
 ---
