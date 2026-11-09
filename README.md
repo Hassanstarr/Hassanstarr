@@ -46,16 +46,6 @@ A REST API covering the core backend workflows of an online store.
 - Cart and order endpoints with Stripe payment integration
 - Product image uploads using Multer and Cloudinary
 
-### ✈️ [AI Virtual Instructor for Aircraft Systems](https://github.com/Hassanstarr/Aircraft-System-Instructor-Chat-Bot-)
-
-A conversational learning interface for exploring aircraft systems.
-
-- **Stack:** React, TypeScript, Tailwind CSS, Supabase Edge Functions
-- AI-powered explanations of hydraulics, propulsion, avionics, and flight controls
-- Streaming responses through a serverless backend
-
-[🌐 Live Website](https://aircraft-system-instructor-chat-bot.vercel.app/)
-
 ### 📝 [MERN Notes App](https://github.com/Hassanstarr/mern-thinkboard)
 
 A full-stack note-taking application with a responsive React interface.
@@ -64,15 +54,15 @@ A full-stack note-taking application with a responsive React interface.
 - REST endpoints for managing notes
 - Upstash Redis-backed API rate limiting
 
-[🌐 Live Website](https://mern-thinkboard-ivory.vercel.app/)
-
 ### 🎓 [HyperSoft Lab — Academic Portfolio Website](https://hypersoft-lab-hassans-projects-098c3892.vercel.app/)
 
 A responsive academic portfolio website built with React.
 
 - Faculty profile, research, and publication showcase
 - Responsive interface for desktop and mobile
-- **Source code:** Private repository · [🌐 Live Website](https://hypersoft-lab-hassans-projects-098c3892.vercel.app/)
+- **Source code:** Private repository
+
+[🌐 Live Website](https://hypersoft-lab-hassans-projects-098c3892.vercel.app/)
 
 ---
 
@@ -89,6 +79,8 @@ A responsive academic portfolio website built with React.
 **Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase,git,postman" alt="MongoDB, MySQL, Redis, Supabase, Git, and Postman" />
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 Also worked with **Microsoft SQL Server**, **JWT**, **Swagger**, **Stripe**, and **Cloudinary**.
 
